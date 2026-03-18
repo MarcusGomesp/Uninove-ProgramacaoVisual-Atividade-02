@@ -1,0 +1,16 @@
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\bin\Debug\net8.0-windows\atv2-exercicio-01.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\bin\Debug\net8.0-windows\atv2-exercicio-01.deps.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\bin\Debug\net8.0-windows\atv2-exercicio-01.runtimeconfig.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\bin\Debug\net8.0-windows\atv2-exercicio-01.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\bin\Debug\net8.0-windows\atv2-exercicio-01.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2_exercicio_01.Form1.resources
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.csproj.GenerateResource.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\refint\atv2-exercicio-01.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\atv2-exercicio-01.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Univove\Aula Programação Visual\atividade2\atv2-exercicio-01\atv2-exercicio-01\obj\Debug\net8.0-windows\ref\atv2-exercicio-01.dll
